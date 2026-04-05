@@ -1,0 +1,23 @@
+name: humanSayMonkeyDo
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python>=3.11, <3.14
+  - notebook
+  - numpy
+  - scipy
+  - matplotlib
+  - pandoc
+  - pandas
+  - ipywidgets
+  - scikit-learn
+  - seaborn
+  - pyyaml
+  - pynwb
+  - pip
+  - pytest
+  - pytest-cov
+  - ruff
+  - pip:
+    - dandi
