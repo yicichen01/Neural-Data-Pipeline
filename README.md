@@ -1,4 +1,4 @@
-# Neural Data Testing and Functional Specs
+# Neural Data Pipeline
 
 This repository is a personal portfolio adaptation of a University of Washington team project on analyzing human and monkey neural recordings from NWB-formatted datasets.
 
